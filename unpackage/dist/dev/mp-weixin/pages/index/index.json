@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "贺贺淘淘",
+  "usingComponents": {
+    "goods-list": "/components/goodsList/goodsList"
+  }
+}
